@@ -18,9 +18,9 @@ t.bgcolor('Dodger blue')
 
 #feet
 t.goto(-100,-150)
-rectangle(50,20,'blue')
+rectangle(50,20,'green')
 t.goto(-30,-150)
-rectangle(50,20,'blue')
+rectangle(50,20,'green')
 
 #legs
 t.goto(-25,-50)
