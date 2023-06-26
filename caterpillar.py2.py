@@ -14,5 +14,6 @@ def draw_circle(size,angle,shift):
 
 turtle.bgcolor('black')
 turtle.speed('fast')
-turtle.pensize(40)
+turtle.pensize(70)
 draw_circle(30,0,1)
+
